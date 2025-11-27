@@ -43,3 +43,5 @@ The project uses:
 ├── arima2-brand-series.ipynb    # Brand-wise & series-wise sales + sentiment forecasting
 ├── forecast_outputs/            # Generated plots, CSVs, and JSON summary files
 └── README.md                    # Project documentation (this file)
+
+TO ACCESS THE WEBSITE >  https://sentiment-product-predict-future-sale.netlify.app/
